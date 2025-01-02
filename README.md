@@ -3,6 +3,6 @@
 A handful of python scripts for cryo-electron tomography image processing.
 ---
 
--**fidder** - for automating gold fiducial removal with fidder
+-**fidder** - for automating gold fiducial removal with fidder (https://github.com/teamtomo/fidder)
 
 -**mdoc_handling** - for batch editing mdocs
